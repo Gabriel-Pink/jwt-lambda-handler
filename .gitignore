@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Diretórios de build
+dist/
+build/
+
+# Arquivos de log
+*.log
+
+# Arquivos de ambiente
+.env
+
+# Dependências de pacotes específicos
+package-lock.json
+yarn.lock
+
+# Diretórios temporários
+tmp/
+temp/
+
+# Arquivos de testes
+coverage/
+
+# Arquivos do editor de código
+.vscode/
+.idea/
+
+# Arquivos de cache do npm
+.npm/
+.cache/
+
+# Arquivos gerados pelo TypeScript
+*.tsbuildinfo
+
+# Arquivos de saída de compilação
+*.js
